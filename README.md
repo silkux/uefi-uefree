@@ -4,7 +4,7 @@ VK64 Kernel running from second sector!
 Objectives 2026-2027
 
 - Agnostic Kernel
-- ByPass ANY Uefi with wiki logs.
+- ByPass ANY Uefi with wiki logs, uefree-firmware updates.
 - Add Uefi-Bypass in all motherboards before boot. 
 - Translate DX11 with llm and ddos updates to Vulkan 
 - Activism against UEFI SecureBoot. GDPR
